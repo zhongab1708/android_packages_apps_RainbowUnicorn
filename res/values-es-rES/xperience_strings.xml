@@ -82,6 +82,13 @@
   <!-- Fingerprint fragment -->
   <string name="fingerprint_settings_title">Huella digital</string>
   <!-- display_animation_settings_title-->
+  <string name="display_animation_settings_title">Animaciones</string>
+  <string name="notification_drawer_settings_summary">Ajustes de las notificaciones</string>
+  <string name="statusbar_settings_summary">Configuración de la barra de estado</string>
+  <string name="batterybar_settings_summary">Configuración de BatteryBar</string>
+  <string name="display_settings_summary">Ajustes de pantalla</string>
+  <string name="displayanimations_settings_summary">Muestra la configuración de animaciones</string>
+  <string name="system_animation_summary">Ajustes de animaciones de sistema</string>
   <!-- Heads-up -->
   <string name="heads_up_notifications_enabled_title">Notificaciones emergentes</string>
   <string name="heads_up_notifications_enabled_summary">Muestra las notificaciones prioritarias en una pequeña ventana flotante</string>
@@ -132,6 +139,14 @@
   <string name="fp_unlock_keystore_title">Desbloqueo de reinicio de la huella digital</string>
   <string name="fp_unlock_keystore_summary">Desbloquear el dispositivo con su huella digital después de reiniciar sin tener que ingresar su Pin/Contraseña/Patrón</string>
   <!--FAB -->
+  <string name="show_clear_all_recents_button_title">Botón de borrar todo</string>
+  <string name="show_clear_all_recents_button_summary">Muestra el botón de limpieza de aplicaciones recientes</string>
+  <string name="recents_clear_all_location_title">Posicion de boton de borrar todo</string>
+  <string name="recents_clear_all_location_top_right">Superior derecha</string>
+  <string name="recents_clear_all_location_top_left">Superior izquierdo</string>
+  <string name="recents_clear_all_location_top_center">Superior centrado</string>
+  <string name="recents_clear_all_location_bottom_right">Inferior derecha</string>
+  <string name="recents_clear_all_location_bottom_left">Inferior izquierda</string>
   <!-- Wakelock blocker -->
   <!-- ListView animation -->
   <!-- ListView interpolator -->
