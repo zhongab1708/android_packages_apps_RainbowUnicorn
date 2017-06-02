@@ -147,8 +147,21 @@
   <string name="recents_clear_all_location_top_center">Superior centrado</string>
   <string name="recents_clear_all_location_bottom_right">Inferior derecha</string>
   <string name="recents_clear_all_location_bottom_left">Inferior izquierda</string>
+  <string name="recents_clear_all_location_bottom_center">Centro inferior</string>
+  <string name="recents_clear_all_title">Eliminar todo</string>
+  <string name="recents_anim_title">Animaciones de Recientes</string>
+  <string name="recents_anim_summary">Personalizar la ventana de retardo de recientes y sus acciones</string>
   <!-- Wakelock blocker -->
+  <string name="wakelock_blocker_title">Bloqueador de Wakelocks</string>
+  <string name="wakelock_blocker_summary">Bloquear wakelocks de sistema</string>
+  <string name="wakelock_blocker_save">Guardar</string>
+  <string name="wakelock_list_header">Wakelocks disponibles</string>
+  <string name="wakelock_blocker_reload">Recargar</string>
+  <string name="wakelock_blocker_warning_title">Proceder con precaución</string>
+  <string name="wakelock_blocker_warning">Bloquear wakelocks pueden causar la inestabilidad, cierres inesperados o pérdida de datos</string>
   <!-- ListView animation -->
+  <string name="listview_animation_title">Animación ListView</string>
+  <string name="listview_off">Por defecto</string>
   <!-- ListView interpolator -->
   <!-- ****************************** UI Interface Cat ends ****************************** -->
   <!-- Toast Animation -->
