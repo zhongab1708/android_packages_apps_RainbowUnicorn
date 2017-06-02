@@ -185,5 +185,37 @@
   <!-- Toast Animation -->
   <string name="toast_icon_title">Icono de notificación Toast</string>
   <string name="toast_icon_summary">Mostrar el icono de la aplicación correspodiente en la notificación toast</string>
+  <string name="toast_animation_title">Animación toast</string>
+  <string name="toast_none_animation">Ninguna</string>
+  <string name="toast_default_animation">Por defecto</string>
+  <string name="toast_fade_animation">Desvanecer</string>
+  <string name="toast_SlideRight_animation">Deslice a la derecha</string>
+  <string name="toast_SlideLeft_animation">Deslize para la Izquierda</string>
+  <string name="toast_Xylon_animation">Xylon</string>
+  <string name="toast_Toko_animation">Toko</string>
+  <string name="toast_Tn_animation">Tn</string>
+  <string name="toast_Honami_animation">Honami</string>
+  <string name="toast_FastFade_animation">Desvanecimiento rápido</string>
+  <string name="toast_GrowFade_animation">Grow fade</string>
+  <string name="toast_GrowFadeCenter_animation">Desvanecimiento creciente desde el centro</string>
+  <string name="toast_GrowFadeBottom_animation">Desvanecimiento creciente desde abajo</string>
+  <string name="toast_Translucent_animation">Translúcido</string>
+  <string name="toast_SlideLeftRight_animation">Deslizar de izquierda a derecha</string>
+  <string name="toast_SlideRightLeft_animation">Deslizar de derecha a izquierda</string>
   <!-- AOKP custom system animations -->
+  <string name="aokp_animation_title">Animaciones de XPerience</string>
+  <string name="aokp_animation_summary">animación personalizada de sistema</string>
+  <string name="activity_open_title">Animación de abrir actividad</string>
+  <string name="activity_close_title">Animación de cerrar actividad</string>
+  <string name="task_open_title">Animación al abrir tarea</string>
+  <string name="task_open_behind_title">Animación de apertura de tareas secundarias</string>
+  <string name="task_close_title">Animacion de cierre de tareas</string>
+  <string name="task_move_to_front_title">Animación de mover al frente</string>
+  <string name="task_move_to_back_title">Animación de volver atras</string>
+  <string name="wallpaper_open_title">Animación al abrir fondo de pantalla</string>
+  <string name="wallpaper_close_title">Animación cierre de fondo de pantalla</string>
+  <string name="wallpaper_intra_open_title">Fondos de pantalla animacion intra-abierta</string>
+  <string name="wallpaper_intra_close_title">Wallpaper intra close animation</string>
+  <string name="animation_duration_title">Duración de la animación</string>
+  <string name="animation_duration_default">Por defecto</string>
 </resources>
